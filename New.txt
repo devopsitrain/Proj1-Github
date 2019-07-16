@@ -1,0 +1,2 @@
+About Angular js
+AngularJS is an open-source web-based JavaScript framework developed to make easier to implements Single Page Application (SPA). It’s developed and maintained by Google and community of developers and the goal is to simplify development and testing of client side web application.
